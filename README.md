@@ -1,0 +1,1 @@
+Just trying QuickCheck out.
